@@ -4,15 +4,12 @@ title: About Heong
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+일반적인 개발 인생을 살고 있는 개발자
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+개발이 무엇보다 재밌지만, 게으름으로 인해
+제대로 된 블로그를 만들지 못하다가 이제야 만들게 된다.
+현재는 개발 5년차
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+의식의 흐름대로 TODO List를 적어두는 공간
 
-
-[jekyll-organization]: https://github.com/jekyll
+공부를 시작하자
